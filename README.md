@@ -1,4 +1,4 @@
-### buffalo
+### buffalo router
 ---
 
 Wi-FiルーターのIPアドレス
